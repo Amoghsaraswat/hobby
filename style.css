@@ -1,0 +1,13 @@
+.g {
+    list-style: none;
+    font-family: fantasy;
+    float: 10px;
+    top: 30px;
+    right: 30px;
+    cursor: pointer;
+    color: darkturquoise
+}
+
+#myname {
+    font-family: 'courgette'cursive
+}
